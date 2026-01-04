@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program_usporna_navigace", "program_usporna_navigace\program_usporna_navigace.csproj", "{37811242-7594-4836-9A60-9DCE63C30868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37811242-7594-4836-9A60-9DCE63C30868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37811242-7594-4836-9A60-9DCE63C30868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37811242-7594-4836-9A60-9DCE63C30868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37811242-7594-4836-9A60-9DCE63C30868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50E70F0A-64CB-4CED-B62A-3DD7BD7CBE84}
+	EndGlobalSection
+EndGlobal
